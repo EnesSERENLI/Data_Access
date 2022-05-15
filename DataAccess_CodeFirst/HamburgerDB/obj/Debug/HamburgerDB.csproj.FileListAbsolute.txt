@@ -1,0 +1,12 @@
+C:\Users\ENES PC\source\repos\MVC\DataAccess_CodeFirst\HamburgerDB\bin\Debug\HamburgerDB.dll.config
+C:\Users\ENES PC\source\repos\MVC\DataAccess_CodeFirst\HamburgerDB\bin\Debug\HamburgerDB.dll
+C:\Users\ENES PC\source\repos\MVC\DataAccess_CodeFirst\HamburgerDB\bin\Debug\HamburgerDB.pdb
+C:\Users\ENES PC\source\repos\MVC\DataAccess_CodeFirst\HamburgerDB\bin\Debug\EntityFramework.dll
+C:\Users\ENES PC\source\repos\MVC\DataAccess_CodeFirst\HamburgerDB\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ENES PC\source\repos\MVC\DataAccess_CodeFirst\HamburgerDB\bin\Debug\EntityFramework.xml
+C:\Users\ENES PC\source\repos\MVC\DataAccess_CodeFirst\HamburgerDB\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ENES PC\source\repos\MVC\DataAccess_CodeFirst\HamburgerDB\obj\Debug\HamburgerDB.csproj.AssemblyReference.cache
+C:\Users\ENES PC\source\repos\MVC\DataAccess_CodeFirst\HamburgerDB\obj\Debug\HamburgerDB.csproj.CoreCompileInputs.cache
+C:\Users\ENES PC\source\repos\MVC\DataAccess_CodeFirst\HamburgerDB\obj\Debug\HamburgerDB.csproj.CopyComplete
+C:\Users\ENES PC\source\repos\MVC\DataAccess_CodeFirst\HamburgerDB\obj\Debug\HamburgerDB.dll
+C:\Users\ENES PC\source\repos\MVC\DataAccess_CodeFirst\HamburgerDB\obj\Debug\HamburgerDB.pdb
