@@ -8,3 +8,11 @@ We are creating our own database in C#. We will do everything manually ourselves
 Tools => Nuget Package Manager => Package Manager Console </br> </br>
 After you open the console, type "enable-migrations" here. </br> </br>
 Finally type "update-database".
+
+## OnModelCreating Method
+
+We can make the arrangements in the database in the onmodelcreating method.
+
+## Seed Method
+
+If there is fake data that we want to add while creating the database, we can do this in the seed method.
