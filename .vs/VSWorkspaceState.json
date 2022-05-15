@@ -1,6 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\DbFirst_Queries",
+    "\\DbFirst_Queries\\DbFirst_Queries"
   ],
+  "SelectedNode": "\\DbFirst_Queries\\DbFirst_Queries\\Form1.cs",
   "PreviewInSolutionExplorer": false
 }
