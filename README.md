@@ -1,8 +1,5 @@
 # Ado.NET
-
-## Disconnection
-
-## Connection
+ADO.NET acts as a complete Bridge between our application that we will develop and the Database. We can read and update data. We can run SQL queries and procedures. For this reason, ADO.NET is the most important technology that we should use in all our database-related application.
 
 # ORM (Object Relational Mapping)
 
@@ -30,4 +27,5 @@ Just as ORM is like a bridge between OOP and relational database, EF is a constr
 
 ## You can find examples of topics here.
 
-## [***1- CodeFirst***](https://github.com/EnesSERENLI/Data_Access/tree/main/DataAccess_CodeFirst)
+## [***1- AdoNET***](https://github.com/EnesSERENLI/Data_Access/tree/main/AdoNET)
+## [***2- CodeFirst***](https://github.com/EnesSERENLI/Data_Access/tree/main/DataAccess_CodeFirst)
