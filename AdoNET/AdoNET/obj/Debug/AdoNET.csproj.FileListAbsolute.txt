@@ -1,0 +1,11 @@
+C:\Users\ENES PC\source\repos\MVC\AdoNET\AdoNET\bin\Debug\AdoNET.exe.config
+C:\Users\ENES PC\source\repos\MVC\AdoNET\AdoNET\bin\Debug\AdoNET.exe
+C:\Users\ENES PC\source\repos\MVC\AdoNET\AdoNET\bin\Debug\AdoNET.pdb
+C:\Users\ENES PC\source\repos\MVC\AdoNET\AdoNET\obj\Debug\AdoNET.csproj.AssemblyReference.cache
+C:\Users\ENES PC\source\repos\MVC\AdoNET\AdoNET\obj\Debug\AdoNET.csproj.SuggestedBindingRedirects.cache
+C:\Users\ENES PC\source\repos\MVC\AdoNET\AdoNET\obj\Debug\AdoNET.Form1.resources
+C:\Users\ENES PC\source\repos\MVC\AdoNET\AdoNET\obj\Debug\AdoNET.Properties.Resources.resources
+C:\Users\ENES PC\source\repos\MVC\AdoNET\AdoNET\obj\Debug\AdoNET.csproj.GenerateResource.cache
+C:\Users\ENES PC\source\repos\MVC\AdoNET\AdoNET\obj\Debug\AdoNET.csproj.CoreCompileInputs.cache
+C:\Users\ENES PC\source\repos\MVC\AdoNET\AdoNET\obj\Debug\AdoNET.exe
+C:\Users\ENES PC\source\repos\MVC\AdoNET\AdoNET\obj\Debug\AdoNET.pdb
