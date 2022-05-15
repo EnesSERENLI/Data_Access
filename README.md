@@ -28,4 +28,5 @@ Just as ORM is like a bridge between OOP and relational database, EF is a constr
 ## You can find examples of topics here.
 
 ## [***1- AdoNET***](https://github.com/EnesSERENLI/Data_Access/tree/main/AdoNET)
-## [***2- CodeFirst***](https://github.com/EnesSERENLI/Data_Access/tree/main/DataAccess_CodeFirst)
+## [***2- DbFirst-Linq and LinqToEntity***](https://github.com/EnesSERENLI/Data_Access/tree/main/DbFirst_Queries)
+## [***3- CodeFirst***](https://github.com/EnesSERENLI/Data_Access/tree/main/DataAccess_CodeFirst)
