@@ -22,10 +22,9 @@ namespace HamburgerDB.Entity
         }
 
         //MApping
-
-        public List<Order_Detail> Order_Details { get; set; }
-
         public int HamburgerId { get; set; }
-        public Hamburger Hamburger { get; set; }
+        public virtual Hamburger Hamburger { get; set; }
+        public virtual List<Order_Detail> Order_Details { get; set; }
+
     }
 }

@@ -18,7 +18,7 @@ namespace HamburgerDB.Entity
         public override bool IsActive { get; set; }
 
         //Mapping
-        public List<Order_Detail> Order_Details { get; set; }
+        public virtual List<Order_Detail> Order_Details { get; set; }
 
     }
 }

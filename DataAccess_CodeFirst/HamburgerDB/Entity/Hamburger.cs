@@ -19,6 +19,7 @@ namespace HamburgerDB.Entity
 
         //Mapping
 
-        public List<Order> Orders { get; set; }
+        //Lazy Loading
+        public virtual List<Order> Orders { get; set; }
     }
 }

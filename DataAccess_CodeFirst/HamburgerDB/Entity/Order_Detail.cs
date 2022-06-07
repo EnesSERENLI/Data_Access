@@ -13,12 +13,12 @@ namespace HamburgerDB.Entity
 
         //Mapping
         public int OrderId { get; set; }
-        public Order Order { get; set; }
+        public virtual Order Order { get; set; }
 
         public int ExtraId { get; set; }
-        public Extra Extra { get; set; }
+        public virtual Extra Extra { get; set; }
 
         public int DimensionId { get; set; }
-        public Dimension Dimension { get; set; }
+        public virtual Dimension Dimension { get; set; }
     }
 }
