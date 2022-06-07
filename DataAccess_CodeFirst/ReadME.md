@@ -16,3 +16,7 @@ We can make the arrangements in the database in the onmodelcreating method.
 ## Seed Method
 
 If there is fake data that we want to add while creating the database, we can do this in the seed method.
+
+## Lazy Loading
+
+Lazy loading moves the data to the heap part of the RAM. According to the need, the data is pulled from there. Entities related to each other with Lazy loading are drawn as needed. This may benefit us in terms of performance according to the case we are in.
